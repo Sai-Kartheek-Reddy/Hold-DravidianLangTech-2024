@@ -3,7 +3,7 @@
 
 This repository contains the proposed work on HOLD from DravidianLangtech-2024@EACL **HOLD-DravidianLangTech-2024**:
 
-[HOLD-Z: Hate and Offensive Language Detection in Telugu Codemixed Text]()
+[HOLD-Project: Hate and Offensive Language Detection in Telugu Codemixed Text]()
 
 
 If you find this repo helpful, please cite the following paper:
