@@ -13,8 +13,7 @@ If you find this repo helpful, please cite the following paper:
 Hateful online content is a growing concern, especially for young people. While social media
 platforms aim to connect us, they can also become breeding grounds for negativity and harmful language. This study tackles this issue by
 proposing a novel framework called HOLD,
-specifically designed to detect hate and offen-
-sive comments in Telugu-English code-mixed
+specifically designed to detect hate and offensive comments in Telugu-English code-mixed
 social media content. HOLD leverages a
 combination of approaches, including three
 powerful models: LSTM architecture, Zypher,
