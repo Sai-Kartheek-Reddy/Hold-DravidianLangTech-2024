@@ -27,4 +27,4 @@ tized Low-Rank Adaptation (QLoRA) in boost-
 ing performance.
 
 ## Overall Framework
-![Hold-Project-Framework](https://github.com/Zuhashaik/HOLD-Z/assets/104340147/eee248e4-7e33-47fe-8af2-2620e549912e)
+![Hold-Project-Framework](https://github.com/Sai-Kartheek-Reddy/Hold-DravidianLangTech-2024/blob/master/code/7Bs/Hold-Framework.png)
