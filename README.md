@@ -1,4 +1,4 @@
-# HOLD-Z
+# HOLD-DravidianLangTech-2024
 ## Overview
 
 This repository contains the proposed work on HOLD-Z from DravidianLangtech-2024@EACL **HOLD-Z**:
