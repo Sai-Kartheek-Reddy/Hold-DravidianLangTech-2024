@@ -1,7 +1,7 @@
 # HOLD-DravidianLangTech-2024
 ## Overview
 
-This repository contains the proposed work on HOLD-Z from DravidianLangtech-2024@EACL **HOLD-Z**:
+This repository contains the proposed work on HOLD from DravidianLangtech-2024@EACL **HOLD-DravidianLangTech-2024**:
 
 [HOLD-Z: Hate and Offensive Language Detection in Telugu Codemixed Text]()
 
