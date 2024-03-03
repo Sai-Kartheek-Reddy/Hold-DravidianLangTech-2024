@@ -20,5 +20,10 @@ powerful models: LSTM architecture, Zypher,
 and openchat_3.5. The study highlights the
 effectiveness of prompt engineering and Quantized Low-Rank Adaptation (QLoRA) in boosting performance.
 
+## Context Focused Architecture
+
+![Hold-Project-Framework](https://github.com/Sai-Kartheek-Reddy/Hold-DravidianLangTech-2024/blob/master/code/context-focused/Context%20Focused%20Architecture.png)
+
+
 ## 7B Model Framework
 ![Hold-Project-Framework](https://github.com/Sai-Kartheek-Reddy/Hold-DravidianLangTech-2024/blob/master/code/7Bs/Hold-Framework.png)
