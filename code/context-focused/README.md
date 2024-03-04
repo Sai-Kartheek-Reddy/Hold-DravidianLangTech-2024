@@ -31,7 +31,7 @@ BERT (Bidirectional Encoder Representations from Transformers) is a state-of-the
 - Instead of training a language model from scratch, we can leverage pre-trained embeddings from models like BERT and fine-tune them for specific downstream tasks, such as sentiment analysis, question answering, or text classification.
 
 ## Usage in Project 
-In our project, we leverage the "Bert-based-uncased" model to extract embeddings, which are then stored in .pt (PyTorch Tensor format) files for future use. By harnessing pre-trained embeddings from BERT, we improve the performance of natural language processing tasks, facilitating a more precise and nuanced comprehension of textual data.
+In our project, we leverage the "### Bert-based-uncased" model to extract embeddings, which are then stored in .pt (PyTorch Tensor format) files for future use. By harnessing pre-trained embeddings from BERT, we improve the performance of natural language processing tasks, facilitating a more precise and nuanced comprehension of textual data.
 
 - The "Bert-based-uncased" model is utilized in our project for extracting embeddings.
 - Embeddings extracted from BERT are saved in .pt files, preserving them in PyTorch Tensor format.
