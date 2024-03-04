@@ -18,7 +18,7 @@ social media content. HOLD leverages a
 combination of approaches, including three
 powerful models: LSTM architecture, Zypher,
 and openchat_3.5. The study highlights the
-effectiveness of prompt engineering and Quantized Low-Rank Adaptation (QLoRA) in boosting performance.
+effectiveness of prompt engineering and Quantized Low-Rank Adaptation (QLoRA) in boosting performance of 7B Models.
 
 ## Context Focused Architecture
 
