@@ -51,7 +51,7 @@ With each Bidirectional LSTM layer, the model learns increasingly intricate patt
 - BatchNormalization standardizes the model's inputs, enhancing training stability and speed.
 - Ultimately, the model produces a probability score between 0 and 1, indicating the likelihood of hate speech within the input text. This architecture amalgamates diverse layers to effectively process and classify text data for hate speech detection.
 
-In conclusion, the significance of embeddings in advancing natural language processing capabilities cannot be overstated. They serve as vital tools for computers to comprehend human language nuances and context more effectively. Whether through traditional methods like Keras Embeddings or cutting-edge models such as BERT, embeddings facilitate accurate representation and interpretation of textual data, powering various applications like sentiment analysis and hate speech detection. Leveraging pre-trained embeddings like "Bert-based-uncased" not only enhances model performance but also streamlines the development process, emphasizing the importance of pre-existing linguistic knowledge in contemporary NLP endeavors. As exploration and innovation in language processing continue, embeddings remain foundational elements, driving progress towards a more nuanced and comprehensive understanding of human communication.
+
 
 - Embeddings are pivotal for advancing natural language processing capabilities.
 - They enable computers to understand human language nuances and context more effectively.
@@ -62,5 +62,7 @@ In conclusion, the significance of embeddings in advancing natural language proc
 - Embeddings stand as foundational elements in language processing, driving progress towards a more nuanced understanding of human communication.
 
 
+
+In conclusion, the significance of embeddings in advancing natural language processing capabilities cannot be overstated. They serve as vital tools for computers to comprehend human language nuances and context more effectively. Whether through traditional methods like Keras Embeddings or cutting-edge models such as BERT, embeddings facilitate accurate representation and interpretation of textual data, powering various applications like sentiment analysis and hate speech detection. Leveraging pre-trained embeddings like "Bert-based-uncased" not only enhances model performance but also streamlines the development process, emphasizing the importance of pre-existing linguistic knowledge in contemporary NLP endeavors. As exploration and innovation in language processing continue, embeddings remain foundational elements, driving progress towards a more nuanced and comprehensive understanding of human communication.
 
 
