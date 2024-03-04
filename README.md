@@ -8,6 +8,7 @@ This repository contains the proposed work on HOLD from DravidianLangtech-2024@E
 
 If you find this repo helpful, please cite the following paper:
 
+![Hold-Project-Paper](https://openreview.net/pdf?id=wyTkDZ8Jrk)
 
 ## Introduction
 Hateful online content is a growing concern, especially for young people. While social media
