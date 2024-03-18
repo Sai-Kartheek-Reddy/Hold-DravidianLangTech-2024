@@ -6,7 +6,8 @@ This repository contains the proposed work on HOLD from DravidianLangtech-2024@E
 [HOLD-Project: Hate and Offensive Language Detection in Telugu Codemixed Text]()
 
 
-If you find this repo helpful, please cite the following paper:
+If you find this repo helpful, please cite the following paper present here:
+[https://aclanthology.org/2024.dravidianlangtech-1.22/]
 
 ## Introduction
 Hateful online content is a growing concern, especially for young people. While social media
