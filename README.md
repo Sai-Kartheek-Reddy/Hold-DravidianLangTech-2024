@@ -7,7 +7,7 @@ This repository contains the proposed work on HOLD from DravidianLangtech-2024@E
 
 
 If you find this repo helpful, please cite the following paper present here:
-[https://aclanthology.org/2024.dravidianlangtech-1.22/]
+[https://aclanthology.org/2024.dravidianlangtech-1.22/]()
 
 ## Introduction
 Hateful online content is a growing concern, especially for young people. While social media
