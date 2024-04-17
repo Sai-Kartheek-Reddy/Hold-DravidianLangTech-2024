@@ -2,7 +2,7 @@
 
 This repository contains code and resources related to Fine-Tuning Large Language Models (LLMs) for various natural language processing tasks.
 
-## Explanation about LoRA, QLoRA, and DoRA
+## Explanation about LoRA and QLoRA
 
 ### LoRA (Low-Rank Adaptation)
 
@@ -17,7 +17,7 @@ LoRA is an efficient adaptation approach designed to address the challenge of fi
 **3. Example:**
 For example, when fine-tuning a model like GPT-3 with 175 billion parameters, deploying independent instances of fully fine-tuned models becomes prohibitively expensive. However, using LoRA, the number of trainable parameters can be reduced by thousands of times, significantly reducing both computational costs and GPU memory requirements.
 
-### QLoRA (Quantized LoRA)
+### QLoRA (Quantized Low-Rank Adaptation)
 
 **1. Method Overview:**
 QLoRA builds upon the efficiency of LoRA by further reducing memory usage without sacrificing task performance. By backpropagating gradients through a frozen, 4-bit quantized pretrained language model into Low-Rank Adapters (LoRA), QLoRA achieves remarkable memory savings while preserving full 16-bit fine-tuning task performance.
